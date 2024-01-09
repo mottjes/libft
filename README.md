@@ -5,6 +5,8 @@
 The purpose of this project is to create a own libary with some re-coded libc functions, 
 as well as some other common utility functions.
 
+For more detail: The subject pdf is inside of the project folder.
+
 ### Usage
 
 ``make`` without bonus functions.
